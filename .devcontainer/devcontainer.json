@@ -1,3 +1,5 @@
+# [Soft2i]
+"ghcr.io/akhildevelops/devcontainer-features/android-cli:0": {}
 {
 	"name": "Code - OSS",
 	"build": {
